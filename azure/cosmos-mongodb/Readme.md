@@ -2,7 +2,7 @@
 
 Azure Cosmos DB is a Microsoft’s globally distributed, multi-model database service. It enables scaling the throughput elastically and independently. Also, it offers storage across any number of Azure regions worldwide. Cosmos DB provides comprehensive service level agreements for throughput, latency, availability, and consistency guarantees.
 
-## CosmosDB Entities Hierarchy
+## Cosmos DB Entities Hierarchy
 
 There are different entities available under Cosmos DB accounts, databases, containers and items. Cosmos DB also has entities like stored procedures, user defined functions, triggers, conflicts.
 
