@@ -197,6 +197,7 @@ It will push the changes to the repository under the given mrcontainerregistry01
 ***Create an Azure Docker Container Instance using Azure Portal:***
 
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ajum4z7douk6w6w0ibvh.png)
+
 Here add the resource group, container name, Image source etc to create the container instance. Once done this we switched to over view section to copy the FQDN and paste it on your browser and run the URL added image functionality will work as expected.
 
 ***Create Azure Container Instance(ACI) using terraform:***
