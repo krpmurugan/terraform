@@ -41,6 +41,7 @@ Azure Container Instances (ACI) is Microsoft PaaS (Platform as service) solution
 ***Create Azure Container Registry (ACR) in Azure Portal:***
 
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/drn9llx4v1h6xr1q9ov5.png)
+
 The above screen adds the registry name, SKU, etc to create the azure registry and then add the repository.
 
 ***Create Azure Container Registry (ACR) using terraform:***
